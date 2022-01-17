@@ -3,7 +3,16 @@
 - 🌱 I’m currently working as Data Analyst at Aedas.
 - 💞️ I’m looking to collaborate on projects that make me excited.
 - 📫 Reach me by email: joaoluciomatosresende@gmail.com
-- 
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoLResende&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLResende)](https://github.com/JoaoLResende/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/JoaoLResende/github-readme-stats)
+
+
+
 
 <!---
 JoaoLResende/JoaoLResende is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
